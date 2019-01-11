@@ -2,7 +2,7 @@ Jeopardy For Teachers
 Our team has created a teaching tool for instructors at any level who want to bring a fun game designed to aid in student’s learning. Inspired by Jeopardy, Jeopardy For Teachers allows the user to create a board specific to their needs. The user is able to search our database of over 300,000 Jeopardy questions as well as create their own. 
 
 Getting Started
-Jeopardy For Teachers via Heroku can be found here:  LINK!!!!!!!
+Jeopardy For Teachers via Heroku can be found here:  https://jeopardy-for-educators.herokuapp.com/
 Alternatively, the game can be found on GitHub:  https://github.com/teamupcube
 
 How to Play
